@@ -49,6 +49,11 @@ From the Power BI Dashboard:
 - **Cards**
 - **Slicers** 
 - **Interactive Filters**
+  ![Screenshot 2025-05-27 220429](https://github.com/user-attachments/assets/3f7fe620-4531-44ca-a10b-def8f3a2be72)
+  ![Screenshot 2025-05-27 220545](https://github.com/user-attachments/assets/3d766125-a338-45de-aa8b-0d4b8a5e159f)
+
+  
+
 
 ---
 
